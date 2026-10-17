@@ -1,0 +1,23 @@
+{
+  "name": "voidforestdark-theme",
+  "displayName": "Void Forest Dark",
+  "description": "Void Linux forest green dark theme matching your system desktop",
+  "version": "1.0.0",
+  "publisher": "rumjer",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "id": "voidforestdark",
+        "label": "Void Forest Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/voidforestdark-color-theme.json"
+      }
+    ]
+  }
+}
