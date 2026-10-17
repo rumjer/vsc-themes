@@ -1,7 +1,7 @@
 {
-  "name": "voidforestdark-theme",
-  "displayName": "Void Forest Dark",
-  "description": "Void Linux forest green dark theme matching your system desktop",
+  "name": "abyssoceandark-theme",
+  "displayName": "Abyss Ocean Dark",
+  "description": "Deep ocean teal variant of Void Forest Dark",
   "version": "1.0.0",
   "publisher": "rumjer",
   "engines": {
@@ -13,10 +13,10 @@
   "contributes": {
     "themes": [
       {
-        "id": "voidforestdark",
-        "label": "Void Forest Dark",
+        "id": "abyssoceandark",
+        "label": "Abyss Ocean Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/voidforestdark-color-theme.json"
+        "path": "./themes/voidoceandark-color-theme.json"
       }
     ]
   }
